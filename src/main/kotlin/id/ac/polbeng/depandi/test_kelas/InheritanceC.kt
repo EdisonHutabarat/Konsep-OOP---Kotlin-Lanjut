@@ -19,7 +19,7 @@ class MathTeacher : Teacher() {
         println("Teaching Maths...")
     }
 }
-
+//
 fun main() {
     val teacher = Teacher()
     val mathsTeacher = MathTeacher()
