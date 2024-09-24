@@ -21,3 +21,4 @@ fun main() {
     val obj = MyClassB()
     obj.demo()
 }
+//
